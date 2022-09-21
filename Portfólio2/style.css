@@ -1,0 +1,46 @@
+body {
+
+    background-image: url("d.jpg");
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    background-color: black
+}
+
+h1 {
+    text-align: center;
+
+}
+
+nav {
+    text-align: center;
+    margin-top: 50px;
+}
+
+nav a {
+    color: rgb(255, 255, 255);
+    padding: 0px 50px 10px 0;
+    font-size: 46pt;
+    position: relative;
+    border: 2px solid white;
+}
+
+
+.container2 {
+    border: 2px solid white;
+    width: 600px;
+    height: 30px;
+    background-color: white;
+    color: black;
+ 
+}
+
+img {
+    width: 160px;
+    height: 160px;
+    justify-content: flex-end;
+
+
+}
+
+
