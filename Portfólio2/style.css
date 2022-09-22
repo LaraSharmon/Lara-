@@ -12,6 +12,15 @@ h1 {
 
 }
 
+.container{
+    display:flex;
+    float:right;
+    justify-content: space-around;
+    align-items:center;
+    border: 2px solid white;
+    
+}
+
 nav {
     text-align: center;
     margin-top: 50px;
@@ -25,15 +34,6 @@ nav a {
     border: 2px solid white;
 }
 
-
-.container2 {
-    border: 2px solid white;
-    width: 600px;
-    height: 30px;
-    background-color: white;
-    color: black;
- 
-}
 
 img {
     width: 160px;
